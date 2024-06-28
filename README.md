@@ -40,3 +40,7 @@ Target 3 - Epithelial–mesenchymal transition (EMT)
 Target 4 - Apical junction
 
 Target 5 - TGF-beta signaling
+
+# Research Paper
+
+Soon to come, will be linked here.
